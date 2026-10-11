@@ -1,0 +1,7 @@
+{
+  "name": "Music",
+  "description": "Bare-bone local music player with glassmorphism surface and zero bloat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
